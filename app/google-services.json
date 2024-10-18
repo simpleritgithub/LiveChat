@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063013436013",
+    "project_id": "livechat-b3a07",
+    "storage_bucket": "livechat-b3a07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063013436013:android:01760e190891e1bfe4cd64",
+        "android_client_info": {
+          "package_name": "com.Samadhan.livechat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAskMe66c6gwYU7B0lJmFhNrRzIduOk0J4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
